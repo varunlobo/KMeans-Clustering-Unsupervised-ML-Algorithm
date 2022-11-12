@@ -7,3 +7,4 @@ Using elbow method, We  then identify the ideal number of clusters by plotting t
 
 
 ![Kmeans Clustering](https://user-images.githubusercontent.com/114509328/201476340-d2b48bc2-ced6-4541-9746-9c31ee2e045d.jpg)
+![KMeans elbow](https://user-images.githubusercontent.com/114509328/201476567-4be51a4c-aaf8-4933-a7e2-9a35809ac995.jpg)
